@@ -1,0 +1,12 @@
+{
+  "name":"multiplead",
+  "moduleVersion":"${project.version}",
+  "description":"Authentication Provider for multiple AD Configs",
+  "initClassName":"com.attivio.securityad.multiplead.ModuleInit",
+  "components": [
+    
+  ],
+  "newFiles": {
+    "lib/multiplead.jar":"lib/multiplead-${project.version}.jar"
+  }
+}
